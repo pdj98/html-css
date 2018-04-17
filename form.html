@@ -1,0 +1,33 @@
+<html>
+<head>
+	<meta charset="utf-8">
+</head>
+<body>
+
+<img src="file:///Users/gw_09/Downloads/re.jpg">
+<form action="action.php" method="post">
+	<p>이름: <input type="text" name="name" /></p>
+	<p>연락처: <input type="text" name="phone" /></p>
+	<p>이용 날짜: <input type="date" name="depart" /></p>
+	<fieldset style="width=50">
+		<legend>세부사항</legend>
+	<p>이용시간:
+		<br/>
+		<input type="radio" name="time" value="아침" checked="checked" />	아침
+		<input type="radio" name="time" value="점심" checked="checked" />	점심
+		<input type="radio" name="time" value="저녁" checked="checked" />	
+		저녁
+	</p>
+	<p>선호하는 쉐프</p>
+	<select name="쉐프">
+		<option value="조리장">조리장</option>
+		<option value="조리장">조리</option>
+		<option value="조리장">조장</option>
+	</select>
+	</fieldset>
+	<p>긴글 작성: <textarea name="commments" cols="20" rows="4">기타 요구사항을 작성해 주세요</textarea></p>
+
+	<p><input type="submit" /></p>
+</form>
+</body>
+</html>
