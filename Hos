@@ -1,13 +1,43 @@
 <html>
 <meta charset = "utf-8">
-<haed> <title>"히오스 맵 고찰"</title> </head>
-<body>
-<img src="https://cdn.namuwikiusercontent.com/s/11462e11209fb3771b3c59f341b66f81d15743ca13124d5675d4a2c0ae688edf81756ffaada2971c87e33cafc076484d9158d6ee01db443b691612391ecaf43fd873ce946890b4718c9437cb7485fa07?e=1533960285&k=WOJQXkWpyPdcApp1ujaSpA" align="left">
 
+<style type ="text/css">
+.mainimg{width: 720px;}
+
+.mainUtube{width: 480px;}
+
+</style>
+
+<body>
+	<div class="title">
+		<font size="10">히오스 맵 고찰</font>
+	</div>
+	
+	<div class="mainimg">
+<img src="https://cdn.namuwikiusercontent.com/s/11462e11209fb3771b3c59f341b66f81d15743ca13124d5675d4a2c0ae688edf81756ffaada2971c87e33cafc076484d9158d6ee01db443b691612391ecaf43fd873ce946890b4718c9437cb7485fa07?e=1533960285&k=Co59aiHwVK2QnkB0xcu_Lw" align="center">
+	</div>
+
+	<div class="mainUtube">
  <center>
  	<video width="640" height="480" controls>
  		<source src="<iframe width="560" height="315" src="https://www.youtube.com/embed/vja1ANMYq8g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>" type="video/mp4">
  	</video>
  </center>
+ 	</div>
+ 	
+ 	<div class="main">
+ 		<p style="font-size: 30;">
+ 			<b>전장 하늘사원</b>
+ 		</p>
+ 		<center>
+ 		<p>광선을 발사하는 사원이 총 3개 존재한다. 첫 사원은 게임 시작 후 3분에 활성화된다. 아군 영웅이 사원을 점령하는 동안 탄약을 소모하여 적진의 건물을 타격하며, 탄약을 전부 소모하면 비활성화 상태로 전환된다. 탄약은 총 40+5발이며, 마지막 5발은 40발이 모두 소모되면 약간의 지연시간[2] 후에 연속으로 빠르게 발사된다. 각 탄약은 450(+분당 20)의 피해를 주며, 마지막 포격은 450(+분당 180)의 피해를 준다. 블랙하트 항만과 유사하지만, 항만에서는 동전을 내면 별다른 후속 조치 없이도 포탄 12발을 쏘는 것에 비해, 각 사원의 공격을 계속 이용하려면 사원을 점령하고 있어야 한다. 적이 탄약을 다 쓰기 전에 아군 영웅이 몰아내고 사원을 빼앗으면 남은 탄약을 차지할 수 있다.
+
+ 		사원이 활성화된 동안 사원을 둘러싼 수호자의 석상이 순차적으로 활성화되어 사원을 밟고 있는 영웅을 공격한다. 수호자는 중앙의 근접 수호자 하나와 주위의 원거리 수호자 4마리로 이루어져 있다. 가장 먼저 중앙의 근접 수호자가 활성화되며, 주변의 원거리 수호자는 일정 시간 후에 2기씩 활성화된다. 공격력이 특별히 높지는 않지만 유지력이 뛰어난 영웅이 아니라면 혼자서 모두 때려잡기는 조금 벅차다. 또한 근접 수호자는 가끔씩 양 팔을 교차했다가 내지르며 전방의 적에게 피해를 주고 멀리 밀쳐내는데, 자세를 취하는 것을 보고 쉽게 피할 수 있다.</p>
+ 		</center>
+ 	</div>
+
+ 	<div class="listnum">
+ 		
+ 	</div>
 </body>
 </html>
