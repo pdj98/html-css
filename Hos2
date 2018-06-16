@@ -1,0 +1,68 @@
+<html>
+<meta charset = "utf-8">
+
+<style type ="text/css">
+.mainimg{width: 720px; margin: 0 auto;}
+
+.mainUtube{width: 480px; margin: 0 auto;}
+
+</style>
+
+<body>
+	<div class="title">
+		<center>
+		<font size="10">히오스 맵 고찰</font>
+		</center>
+	</div>
+	
+	<div class="mainimg">
+		<p style="text-align: center;">
+			<img src="https://cdn.namuwikiusercontent.com/s/60352877ad6d3f23bc8e49f9a4708356f0eb21882fe90f854c393124008ace8fb3ac008d933441d6de33bae8b0b831c65b360580847045b78a8ea96fc69c06cead496eda37bc8d49fc3cde74838bce1a?e=1532632313&k=Qzp9_wPYK582frFjw70s1A">
+		</p>
+	</div>
+
+	<div class="mainUtube">
+ 	<p style="text-align: center;">
+ 	<video width="640" height="480" controls>
+ 		<source src="<iframe width="560" height="315" src="https://www.youtube.com/watch?v=mHiWDj0PzUo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>" type="video/mp4">
+ 	</video>
+ 	</p>
+ 	</div>
+ 	
+ 	<div class="main">
+ 		<p style="font-size: 30;">
+ 			<center>
+ 			<b>전장 용의 둥지</b>
+ 			</center>
+ 		</p>
+ 		<center>
+ 		<p>초반에 뽑는 용기사는 그다지 큰 활약을 펼치지 못하는 경우가 많지만, 후반에 뽑게 되면 무시무시한 건물 해체 능력을 보여준다. 용기사가 체력이 다하거나 지속 시간이 완료되어서 죽으면 그 자리에서 원래의 영웅이 튀어나오는데, 적진에 너무 깊숙히 들어갔다가 죽으면 탈탈 털린 포탑과 성채들 때문에 심히 빡친 적 팀원들에게 둘러싸여 끔살당할 수 있으니 주의하자. 용기사를 타더라도 적이 전부 몰려와서 일점사하면 순식간에 죽으므로 아군과 보조를 맞춰 전진하는 게 좋다. 
+
+용기사가 건물 파괴에 특화되어 있지만 후반으로 갈수록 조심스럽게 플레이해야 한다. 리스폰 시간이 짧은 초반에는 건물만 부수고 죽더라도 괜찮지만, 리스폰 시간이 길어지는 후반에는 건물 한두개 깨고 팀 영웅들이 전멸당하면 리스폰 대기시간 동안 역으로 큰 손해를 볼 수 있으므로 그냥 건물만 치기보다 아군과 호흡을 맞춰 적 딜러를 날려버리고 적군에게 불을 뿜어가며 건물을 철거하자. 용기사를 먹고 앞뒤안보고 개돌하다가 나머지 아군이 전멸당하면 오히려 망하는 경우가 많다.
+
+또한 용기사 탑승 후 돌격병이나 잡으면서 시간과 체력을 낭비해서도 안 된다. 용기사를 먹었다면 재빨리 모든 팀원이 용기사 뒤에 따라붙고 용기사를 선두로 적진으로 돌진해서 건물을 때리면서 적 영웅들에게 용기사의 스킬을 계속 사용해 이득을 챙겨야 한다. 그래도 이동 중에 돌격병 무리와 마주치면 q라도 한 방 넣어주고 지나가는 게 좋다.
+
+용기사는 밀리고 있는 라인을 보조하기보단 아군 돌격병이 밀고 있는 쪽을 돌격병을 방패삼아 더더욱 푸시하는 용도로 사용하는게 약간 더 효율적. 라인을 남북으로 쏘다니며 적 영웅들을 끌고다녀 그 사이에 아군 영웅들이 이득을 취하게 하는 것도 좋다. 다만 시간이 흐를수록 개인 플레이의 위험성이 커지고 영웅들의 딜링과 철거력도 용기사에 뒤지지 않을 만큼 강해지므로 후반에는 몸빵 역할을 해주는 것으로도 족하다.
+
+용기사를 막을 때는 여러가지 스턴이나 넉백기술로 공격을 방해하거나 뒤의 약한 딜러 영웅들을 먼저 제거하는 것이 좋다. 다만 용기사는 몇몇 군중 제어기에 면역을 갖고 있기 때문에 상대시에 주의해야 한다.</p>
+ 		</center>
+ 	</div>
+
+ 	<div class="listnum">
+ 		<input type = "button" 
+          value = "1" 
+           name = "1" 
+        onclick = "location.href='C:\Users\samsung\Downloads\Hos (4)'"> <br/><br/>
+
+        <input type = "button" 
+          value = "2" 
+           name = "2" 
+        onclick = "location.href='C:\Users\samsung\Downloads\Hos (4)'"> <br/><br/>
+
+        <input type = "button" 
+          value = "3" 
+           name = "3" 
+        onclick = "location.href='C:\Users\samsung\Downloads\Hos (4)'"> <br/><br/>
+ 	</div>
+</body>
+</html>
